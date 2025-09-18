@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: TRANSACTION-SERVICE
+
+
+server:
+  port: 8087
